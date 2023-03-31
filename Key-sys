@@ -33,7 +33,7 @@ function start()
 		rconsoleprint("1\n")
 		wait(1)
 		rconsoleclose()
-		loadstring(game:HttpGet("https://raw.githubusercontent.com/1Devz/sans-storAge/main/DevZ%20hub?token=GHSAT0AAAAAAB7IS4LIRCCK2HDVCZKDONPWZBASSDQ"))()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/1Devz/scripts/main/DevZ%20Hub"))()
 	elseif input ~= key then
 		rconsoleprint('@@RED@@')
 		rconsoleprint("Wrong Key!")
