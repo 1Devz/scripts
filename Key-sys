@@ -1,0 +1,46 @@
+local input
+local key = loadstring(game:HttpGet("https://pastebin.com/raw/ZvBSdAmw"))()
+
+function start()
+	rconsolename("DevZ Hub Key Sys")
+	rconsoleprint('@@YELLOW@@')
+	rconsolewarn(" Key link: https://bit.ly/3ZhPkOQ \n")
+	rconsolewarn(" Enter Key: ")
+	input = rconsoleinput()
+
+	if input == key then
+		rconsoleprint("Checking Key..\n")
+		wait(1)
+		rconsoleprint("Checking Key...\n")
+		wait(1)
+		rconsoleprint("Checking Key.\n")
+		wait(1)
+		rconsoleclear()
+		rconsoleprint('@@LIGHT_GREEN@@')
+		rconsoleprint("Welcome!\n")
+		wait(3)
+		rconsoleclear()
+		rconsoleprint('@@LIGHT_BLUE@@')
+		rconsoleprint("Console will closed in: \n")
+		rconsoleprint("5\n")
+		wait(1)
+		rconsoleprint("4\n")
+		wait(1)
+		rconsoleprint("3\n")
+		wait(1)
+		rconsoleprint("2\n")
+		wait(1)
+		rconsoleprint("1\n")
+		wait(1)
+		rconsoleclose()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/1Devz/sans-storAge/main/DevZ%20hub?token=GHSAT0AAAAAAB7IS4LIRCCK2HDVCZKDONPWZBASSDQ"))()
+	elseif input ~= key then
+		rconsoleprint('@@RED@@')
+		rconsoleprint("Wrong Key!")
+		wait(1.5)
+		rconsoleclear()
+		begin()
+	end
+end
+
+start()
