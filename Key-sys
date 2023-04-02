@@ -39,7 +39,7 @@ function start()
 		rconsoleprint("Wrong Key!")
 		wait(1.5)
 		rconsoleclose()
-		begin()
+		start()
 	end
 end
 
