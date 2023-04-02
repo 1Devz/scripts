@@ -1,0 +1,29 @@
+
+	print("																												                                                                         bbbbbbbb            ")
+	print("DDDDDDDDDDDDD                                                   ZZZZZZZZZZZZZZZZZZZ     HHHHHHHHH     HHHHHHHHH                 b::::::b            ")
+	print("D::::::::::::DDD                                                Z:::::::::::::::::Z     H:::::::H     H:::::::H                 b::::::b            ")
+	print("D:::::::::::::::DD                                              Z:::::::::::::::::Z     H:::::::H     H:::::::H                 b::::::b            ")
+	print("DDD:::::DDDDD:::::D                                             Z::::ZZZZZZZ:::::Z      HH::::::H     H::::::HH                  b:::::b            ")
+	print("D:::::D    D:::::D      eeeeeeeeeeee  vvvvvvv           vvvvvvv ZZZZZ    Z:::::Z         H:::::H     H:::::H  uuuuuu    uuuuuu  b:::::bbbbbbbbb     ")
+	print("D:::::D     D:::::D   ee::::::::::::ee v:::::v         v:::::v         Z:::::Z           H:::::H     H:::::H  u::::u    u::::u  b::::::::::::::bb   ")
+	print("D:::::D     D:::::D  e::::::eeeee:::::eev:::::v       v:::::v         Z:::::Z            H::::::HHHHH::::::H  u::::u    u::::u  b::::::::::::::::b  ")
+	print("D:::::D     D:::::D e::::::e     e:::::e v:::::v     v:::::v         Z:::::Z             H:::::::::::::::::H  u::::u    u::::u  b:::::bbbbb:::::::b ")
+	print("D:::::D     D:::::D e:::::::eeeee::::::e  v:::::v   v:::::v         Z:::::Z              H:::::::::::::::::H  u::::u    u::::u  b:::::b    b:::::::b")
+	print("D:::::D     D:::::D e:::::::::::::::::e    v:::::v v:::::v         Z:::::Z               H::::::HHHHH::::::H  u::::u    u::::u  b:::::b     b::::::b")
+	print("D:::::D     D:::::D e::::::eeeeeeeeeee      v:::::v:::::v         Z:::::Z                H:::::H     H:::::H  u::::u    u::::u  b:::::b     b::::::b")
+	print("D:::::D    D:::::D  e:::::::e                v:::::::::v       ZZZ:::::Z     ZZZZZ       H:::::H     H:::::H  u:::::uuuu:::::u  b:::::b     b::::::b")
+	print("DDD:::::DDDDD:::::D  e::::::::e    eeeee      v:::::::v        Z::::::ZZZZZZZZ:::Z     HH::::::H     H::::::HHu::::::::::::u  uub:::::bbbbbb:::::b  ")
+	print("D:::::::::::::::DD    ee:::::::eeee::::e       v:::::v         Z:::::::::::::::::Z     H:::::::H     H:::::::H u:::::::::::u   ub::::::::::::::::b  ")
+	print("D::::::::::::DDD        ee:::::::::::::e        v:::v          Z:::::::::::::::::Z     H:::::::H     H:::::::H  uu::::::::u    ub:::::::::::::::b   ")
+	print("DDDDDDDDDDDDD             eeeeeeeeeeeee          vvv           ZZZZZZZZZZZZZZZZZZZ     HHHHHHHHH     HHHHHHHHH    uuuuuuuu      bbbbbbbbbbbbbbbb    ")
+
+
+
+
+print("oooooooooo.                          oooooooooooo      ooooo   ooooo              .o8       ")
+print(" 888     Y8b                        d       d888        888     888               888       ")
+print(" 888      888  .ooooo.  oooo    ooo       .888P         888     888  oooo  oooo   888oooo.  ")
+print(" 888      888 d88' `88b  `88.  .8'       d888'          888ooooo888  `888  `888   d88' `88b ")
+print(" 888      888 888ooo888   `88..8'      .888P            888     888   888   888   888   888 ")
+print(" 888     d88' 888    .o    `888'      d888'    .P       888     888   888   888   888   888 ")
+print("o888bood8P'   `Y8bod8P'     `8'     .8888888888P       o888o   o888o  `V88V V8P'  `Y8bod8P' ")
